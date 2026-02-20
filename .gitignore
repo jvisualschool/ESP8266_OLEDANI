@@ -1,0 +1,11 @@
+.pio
+.vscode
+*.o
+*.a
+*.elf
+*.bin
+*.map
+build/
+.DS_Store
+include/config.h
+ANI_GIF/
