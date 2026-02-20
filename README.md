@@ -8,9 +8,9 @@ ESP8266 와 128x64 OLED(SSD1306)를 사용한 텍스트 및 애니메이션 플�
 ### 웹 컨트롤 제어 화면 및 실제 출력 모습
 | Web UI & Animation |
 | :---: |
-| ![AniPlayer Screenshot 1](screenshot/screenshot1_slim.webp) |
-| ![AniPlayer Screenshot 2](screenshot/screenshot2_slim.webp) |
-| ![AniPlayer Screenshot 3](screenshot/screenshot3_slim.webp) |
+| ![AniPlayer Screenshot 1](https://jvibeschool.org/ESP8266_OLEDANI/screenshot/screenshot1_slim.webp) |
+| ![AniPlayer Screenshot 2](https://jvibeschool.org/ESP8266_OLEDANI/screenshot/screenshot2_slim.webp) |
+| ![AniPlayer Screenshot 3](https://jvibeschool.org/ESP8266_OLEDANI/screenshot/screenshot3_slim.webp) |
 
 ## 주요 기능 (Features)
 - **128x64 I2C OLED 디스플레이 제어**
